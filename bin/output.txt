@@ -1,0 +1,14 @@
+events,application=GemPrf,title=ApacheJMeter text="Test Name ended" 1669111041924000000
+jmeter,application=GemPrf,transaction=all,status=all ,count=71,countError=2,avg=90.75,min=64.0,max=129.0,hit=71,sb=8533,rb=102262,pct99.0=128.85999999999993,pct95.0=108.94999999999999,pct90.0=105.0 1669111041925000000
+jmeter,application=GemPrf,transaction=H1,status=all ,count=24,avg=91.17,min=12.0,max=255.0,hit=24,sb=2921,rb=43419,pct99.0=253.73999999999936,pct95.0=114.79999999999995,pct90.0=105.0,Time= 1669111041925000000
+jmeter,application=GemPrf,transaction=H1,status=ok ,count=23,avg=91.78,min=68.0,max=255.0,hit=24,sb=2921,rb=43419,pct99.0=253.73999999999936,pct95.0=114.79999999999995,pct90.0=105.0,Time= 1669111041925000000
+jmeter,application=GemPrf,transaction=H1,status=ko ,count=1,avg=12.0,min=12.0,max=12.0,hit=24,sb=2921,rb=43419,pct99.0=12.0,pct95.0=12.0,pct90.0=12.0,Time= 1669111041925000000
+jmeter,application=GemPrf,transaction=H1,responseCode=Assertion\ failed,responseMessage=Test\ failed:\ code\ expected\ to\ contain\ /200/ ,count=1 1669111041925000000
+jmeter,application=GemPrf,transaction=H2,status=all ,count=23,avg=87.42,min=61.0,max=287.0,hit=23,sb=2806,rb=22938,pct99.0=285.3399999999991,pct95.0=108.94999999999999,pct90.0=101.9,Time= 1669111041925000000
+jmeter,application=GemPrf,transaction=H2,status=ok ,count=23,avg=87.42,min=61.0,max=287.0,hit=23,sb=2806,rb=22938,pct99.0=285.3399999999991,pct95.0=108.94999999999999,pct90.0=101.9,Time= 1669111041925000000
+jmeter,application=GemPrf,transaction=H3,status=all ,count=24,avg=91.87,min=61.0,max=274.0,hit=24,sb=2806,rb=35905,pct99.0=273.3399999999997,pct95.0=111.84999999999997,pct90.0=105.0,Time= 1669111041925000000
+jmeter,application=GemPrf,transaction=H3,status=ok ,count=23,avg=91.85,min=61.0,max=274.0,hit=24,sb=2806,rb=35905,pct99.0=273.3399999999997,pct95.0=111.84999999999997,pct90.0=105.0,Time= 1669111041925000000
+jmeter,application=GemPrf,transaction=H3,status=ko ,count=1,avg=74.0,min=74.0,max=74.0,hit=24,sb=2806,rb=35905,pct99.0=74.0,pct95.0=74.0,pct90.0=74.0,Time= 1669111041925000000
+jmeter,application=GemPrf,transaction=H3,responseCode=Assertion\ failed,responseMessage=Test\ failed:\ code\ expected\ to\ contain\ /200/ ,count=1 1669111041925000000
+jmeter,application=GemPrf,transaction=internal ,minAT=0,maxAT=2,meanAT=1,startedT=2,endedT=2,p_id=80caef38522648ef9fd98278827a676f,environment=beta,user=rushil.matta,Time= 1669111041926000000
+
